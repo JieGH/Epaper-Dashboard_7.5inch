@@ -4,6 +4,7 @@ A epaper dashboard based on Waveshare 7.5 inch epaper display and ESP8266 to dis
 Version 0.1 
 
 - Issues: 1) Poorly RAM managenment, code is poorly wrriten 2) Most of the Code has no comments 
+- New Issues: news API fetching fail since 04/2019
 
 This project received great help from Kevin Darrah https://www.youtube.com/watch?v=0IuqL-4UftA&t=233s http://www.kevindarrah.com/wiki/index.php?title=EPaperBoard
 
