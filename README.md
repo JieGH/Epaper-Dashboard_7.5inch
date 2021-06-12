@@ -1,4 +1,14 @@
 # Epaper-Dashboard_7.5inch
+
+06/2021
+
+I added a new meme dashboard
+
+https://github.com/JieGH/Epaper-Dashboard_7.5inch/tree/master/AnotherDesign/AnotherDesign
+
+
+---
+
 A epaper dashboard based on Waveshare 7.5 inch epaper display and ESP8266 to display news headlines and weather
 
 Version 0.1 
