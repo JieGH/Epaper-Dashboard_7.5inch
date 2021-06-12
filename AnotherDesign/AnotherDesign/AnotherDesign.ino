@@ -33,6 +33,9 @@ void setup()
 
 void loop()
 {
+  showAI_IF2();
+  delay(2000);
+
   showAI_if();
   delay(2000);
   showPizzaApple();
@@ -77,6 +80,12 @@ void showPizzaApple(){
   display.setFont(f);
   display.setCursor(300, 360);
   display.println("Scan NFC Tag to learn more");
+  display.update();
+}
+
+void showAI_IF2(){
+  display.fillScreen(GxEPD_WHITE);
+  display.drawBitmap(AI_IF2, 0, 0, 596, 384, GxEPD_BLACK);
   display.update();
 }
 
